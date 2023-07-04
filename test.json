@@ -1,4 +1,14 @@
 {
-  "version": "3.4.3",
-  "link": "https://drive.google.com/file/d/1uVOwAwpcGXv4ICT1IlFcNvAbpKWlYl3L/view?usp=drive_link",
+    "TEL-X1-PRO": {
+        "version": "3.4.3",
+        "link": "https://drive.google.com/file/d/1uVOwAwpcGXv4ICT1IlFcNvAbpKWlYl3L/view?usp=drive_link"
+    },
+    "TEL-X1-PRO-5G": {
+        "version": "3.4.3",
+        "link": "https://drive.google.com/file/d/1Gkua_p7SnTUJQfrtMDcC4RfcWLq5_N73/view?usp=drive_link"
+    },
+    "TEL-T1": {
+        "version": "3.4.0",
+        "link": "https://drive.google.com/file/d/1hd5HZzta9C48Na0TCOvtefui8KuYtV9q/view?usp=drive_link"
+    }
 }
